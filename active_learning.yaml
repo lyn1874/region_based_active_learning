@@ -1,0 +1,67 @@
+name: act
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2020.1.1=0
+  - certifi=2020.4.5.1=py36_0
+  - ld_impl_linux-64=2.33.1=h53a641e_7
+  - libedit=3.1.20181209=hc058e9b_0
+  - libffi=3.3=he6710b0_1
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - openssl=1.1.1g=h7b6447c_0
+  - pip=20.0.2=py36_3
+  - python=3.6.10=h7579374_2
+  - readline=8.0=h7b6447c_0
+  - setuptools=46.4.0=py36_0
+  - sqlite=3.31.1=h62c20be_1
+  - tk=8.6.8=hbc83047_0
+  - wheel=0.34.2=py36_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - absl-py==0.9.0
+    - astor==0.8.1
+    - cycler==0.10.0
+    - decorator==4.4.2
+    - gast==0.3.3
+    - grpcio==1.29.0
+    - h5py==2.10.0
+    - imagecodecs==2020.2.18
+    - imageio==2.8.0
+    - importlib-metadata==1.6.0
+    - joblib==0.15.1
+    - keras-applications==1.0.8
+    - keras-preprocessing==1.1.2
+    - kiwisolver==1.2.0
+    - markdown==3.2.2
+    - matplotlib==3.2.1
+    - mock==4.0.2
+    - networkx==2.4
+    - numpy==1.18.4
+    - opencv-python==4.2.0.34
+    - pandas==1.0.5
+    - pillow==7.1.2
+    - protobuf==3.12.0
+    - pyparsing==2.4.7
+    - python-dateutil==2.8.1
+    - pytz==2020.1
+    - pywavelets==1.1.1
+    - scikit-image==0.17.2
+    - scikit-learn==0.23.0
+    - scipy==1.1.0
+    - seaborn==0.10.1
+    - six==1.14.0
+    - tensorboard==1.13.1
+    - tensorflow-estimator==1.13.0
+    - tensorflow-gpu==1.13.1
+    - termcolor==1.1.0
+    - threadpoolctl==2.0.0
+    - tifffile==2020.5.11
+    - werkzeug==1.0.1
+    - xlrd==1.2.0
+    - zipp==3.1.0
+prefix: /home/blia/.conda/envs/act
+
